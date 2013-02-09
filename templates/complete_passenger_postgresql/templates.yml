@@ -2,3 +2,4 @@ description: A fairly complete and scalable postgresql deployment setup
 dependent_templates:
   - complete_passenger
   - postgresql
+  - elasticsearch
